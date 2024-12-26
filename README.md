@@ -51,4 +51,4 @@ Created comprehensive analysis examining:
 ## Conclusion
 This analysis provides actionable insights for Netflix's R-rated content strategy in 2024, based on comprehensive data analysis of existing content performance.
 
-![Click Here to access PPT](project netflix ppt.pdf)
+![Click Here to access PPT](https://github.com/jagruth23/Netflix-Dataset-Analysis-EDA-/blob/bf7fb89d70533f12f172c056a79a1f6d277b5cc8/project%20netflix%20ppt.pdf)
